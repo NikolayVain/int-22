@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1cvmzS0Mb9sOpMXcVA6TDdPAhLfSkyj81Q/zzjuEEts=",
+  "Source": "SecondApp",
+  "BasePath": "_content/SecondApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
